@@ -20,7 +20,8 @@ Mui 投票
     1. HTTP endpoint
     2. 免费额度足够用很久 
 5. 其它
-    1. TailwindCSS
+    1. Nuxt-i18n 
+    2. TailwindCSS
     2. DaisyUI
     3. GitHub
     4. pnpm
