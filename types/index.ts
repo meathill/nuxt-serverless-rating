@@ -11,3 +11,9 @@ export type CurrentRate = {
   total: number;
   rounded: number;
 };
+
+export type RankItem = RateData & {
+  uid: string;
+  voted: number;
+  avg: number;
+}
